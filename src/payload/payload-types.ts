@@ -174,6 +174,7 @@ export interface Media {
   height?: number | null
 }
 export interface Category {
+  media: Media
   id: string
   title?: string | null
   parent?: (string | null) | Category

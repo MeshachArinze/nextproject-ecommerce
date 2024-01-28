@@ -1,6 +1,6 @@
 'use client'
 
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useState } from "react";
 import { useRouter } from 'next/navigation'
 
 import { Product } from '../../../payload/payload-types'

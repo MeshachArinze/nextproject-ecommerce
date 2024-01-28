@@ -1,5 +1,5 @@
 import React from 'react'
-import { FieldValues, UseFormRegister, Validate } from 'react-hook-form'
+import { FieldValues, UseFormRegister } from 'react-hook-form'
 
 import classes from './index.module.scss'
 
